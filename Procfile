@@ -1,0 +1,1 @@
+web: gunicorn dash-clf-comparison:server
